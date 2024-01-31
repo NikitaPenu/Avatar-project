@@ -1,0 +1,314 @@
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.container {
+    width: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 50px;
+  padding-left: 205px;
+  height: 150px;
+  background-image: url("../images/header-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.header-position {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.avatar_water {
+  width: 186px;
+  height: 72px;
+  flex-shrink: 0;
+}
+.menu-list {
+    display: flex;
+}
+.text {
+  color: #94cfff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.avatar-button {
+    width: 141px;
+height: 41.694px;
+flex-shrink: 0;
+  border-radius: 35px 0px 35px 0px;
+  border-color: #26c6ea;
+  color: #26c6ea;
+  text-align: center;
+  font-family: HeadlandOne;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 54px 49px 54px 212px;
+}
+.section-1 {
+  width: 1440px;
+  height: 740px;
+  flex-shrink: 0;
+  background-image: url("../images/Avatar1.jpg");
+  background-repeat: no repeat;
+  background-position: center;
+  background-size: cover;
+}
+.avatar-text {
+  width: 298px;
+  height: 96px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.arrow-left {
+  width: 152px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.avatar-text-ua {
+  width: 376px;
+  height: 123px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.join-clan {
+  width: 260px;
+  height: 80px;
+  flex-shrink: 0;
+  border-radius: 45px 0px;
+  border: 3px solid #26c7ea;
+  background: #0b0e66;
+  color: #26C7EA;
+text-align: center;
+font-family: HeadlandOne;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.inst {
+    width: 30px;
+height: 30px;
+flex-shrink: 0;
+}
+.twitter {
+    width: 34px;
+height: 30px;
+flex-shrink: 0;
+}
+.youtube {
+    width: 50px;
+    height: 30px;
+    flex-shrink: 0;
+}
+.section-2 {
+    width: 1440px;
+height: 350px;
+flex-shrink: 0;
+}
+.text-peoples {
+    color: #0A3853;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 75px 360px 4px 360px;
+}
+.text-infinite {
+    color: #0A3853;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 4px 220px 16px 220px;
+}
+.person-name {
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 16px 645px 8px 645px;
+}
+.angel {
+    width: 400px;
+height: 120px;
+flex-shrink: 0;
+margin: 8px 520px 10px 520px;
+}
+.section-3 {
+    width: 1440px;
+height: 741px;
+flex-shrink: 0;
+background-image: url('../images/Avatar2.jpg');
+}
+.watch-trailer {
+    width: 260px;
+height: 80px;
+flex-shrink: 0;
+border-radius: 45px 0px;
+border: 3px solid #26C7EA;
+background: #0B0E66;
+color: #26C7EA;
+text-align: center;
+font-family: HeadlandOne;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 355px 610px;
+}
+.section-4 {
+    width: 1442px;
+height: 350px;
+flex-shrink: 0;
+}
+.borrowed-energy {
+    color: #141414;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 75px 280px 4px 276px;
+}
+.return-energy {
+    color: #141414;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 4px 460px 16px 454px;
+}
+.section-5 {
+    width: 1440px;
+height: 704px;
+flex-shrink: 0;
+background-image: url('../images/Avatar3.jpg');
+}
+.studying {
+    color: #141414;
+text-align: center;
+font-family: HeadlandOne;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.square {
+  display: flex;
+    width: 320px;
+height: 240px;
+flex-shrink: 0;
+    background: rgba(255, 255, 255, 0.70);
+}
+.ukrainian {
+color: #141414;
+text-align: justify;
+font-family: HeadlandOne;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 100% */
+margin: 36px 120px 40px 120px;
+}
+.studying-images {
+  width: 152px;
+height: 40px;
+flex-shrink: 0;
+}
+.avatar {
+    color: #000;
+text-align: justify;
+font-family: HeadlandOne;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 100% */
+margin: 40px 123px 36px 122px;
+}
+.section-6 {
+  width: 1438px;
+height: 350px;
+flex-shrink: 0;
+}
+.textt {
+  color: #141414;
+text-align: justify;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.neitiri {
+  color: #000;
+text-align: justify;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer {
+  width: 1440px;
+height: 223px;
+flex-shrink: 0;
+background-image: url('../images/footer-bg.png');
+}
+.avatar-footer {
+  width: 183px;
+height: 70px;
+flex-shrink: 0;
+}
+.email-info {
+  color: #FFF;
+text-align: justify;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
